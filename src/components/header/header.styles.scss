@@ -1,0 +1,23 @@
+.header{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display:flex;
+  height: 6vh;
+  background-color: white;
+  .logo{
+    width: 10vw;
+    height: 4vh;
+    margin: 1vh 0vw 0vh 2vw;
+  }
+  .header-title{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    margin: 1vh 0vw 0vh 25vw;
+  }
+  .menu-button{
+    margin: 1vh 0vw 0vh 36vw;
+  }
+
+}
+
